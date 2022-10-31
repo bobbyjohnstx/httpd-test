@@ -1,2 +1,2 @@
 # httpd-test
-SImple httpd container test
+Simple httpd container test for demos and enablement
